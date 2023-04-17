@@ -3,11 +3,5 @@ lets do the rights
 add new line 1
 add new line 2
 
-shield shelter
-fallout go away
-
-new content
-
-our song123
-
-add new line to the last commit (no creatind new one)
+And here!
+---------------------------------
